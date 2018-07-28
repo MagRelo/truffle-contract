@@ -1,5 +1,7 @@
 # truffle-contract
 
+*fork for web3 1.0*
+
 Better Ethereum contract abstraction, for Node and the browser.
 
 
